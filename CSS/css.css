@@ -1,0 +1,67 @@
+/* #################### TÍTULO DA PÁGINA #################### */
+h1{
+    text-align: center;
+}
+
+
+/* #################### BOTÃO C/ AS CONDIÇÕES PARA SER UM DODADOR #################### */
+#botao2{
+    object-position: center;
+}
+
+
+/* #################### FORMULÁRIO DE CADASTRO #################### */
+#formulario{
+    height: 520px;
+    width: 30%;
+    background-color: cadetblue;
+    float: left;
+    margin-top: 57px;
+    margin-left: 120px;
+}
+
+.form-group{
+    width: 600px;
+}
+
+/* SEXO */
+.alturaOpcoes{
+    margin-bottom: 0px;
+}
+
+
+/* #################### EXIBIÇÃO DOS CADASTRADOS #################### */
+#exibicao{
+    height: 520px;
+    width: 50%;
+    background-color: cadetblue;
+    float: right;
+    margin-top: 20px;
+    margin-right: 120px;
+    overflow-y: auto;
+}
+
+/* BOTÃO PARA EXIBIR OS CADASTRADOS */
+#botao{
+    margin-top: 10px;
+    float: left;
+    margin-left: 240px;
+    margin-bottom: 15px;
+}
+
+/* DIV ONDE É EXIBIDA OS CADASTRADOS */
+#cadastrados{
+    margin-top: 60px;
+}
+
+/* DIV ONDE É EXIBIDA OS CADASTRADOS */
+.colab{
+    width: 60%;
+    height: 170px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.473);
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
